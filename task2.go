@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	var task := "from "
+	var task := "from main"
 	print("Hello, ", task)
 }
