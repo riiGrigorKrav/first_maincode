@@ -1,7 +1,7 @@
 package main
 
 func main() {
-	var task := "from main for PullRequest"
+	var task := "from main"
 	print("Hello, ", task)
 
 }
