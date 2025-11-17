@@ -56,15 +56,3 @@ func TestSumDigits(t *testing.T) {
 
 // }
 
-// for testCase := range testTable {
-// 	result := SumDidits(testCase.numbers)
-// 	// t.Logf("Calling SumDigits(%v), result %d\n", testCase.numbers, result)
-
-// 	if result != testCase.want {
-// 		t.Errorf("Incorrect result, Want %d, got %d", testCase.want, result)
-
-// testname := fmt.Sprintf("%d", tt.a)
-// t.Run(testname, func(t *testing.T)) {
-// 	ans := SumDigits(tt.a)
-// 	if ans != tt.want{
-// 		t.Errorf("got %d, want %d", ans, tt.want)
